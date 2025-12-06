@@ -54,7 +54,6 @@ _(Team member roles will be updated as development progresses.)_
 
 ---
 
--
 
 ## 🙏 Acknowledgments
 
