@@ -28,7 +28,7 @@ Before you initiate the building process, ensure your environment is correctly c
 ### 🔹 Ninja & Mbed-tools
 Ninja focuses on build speed, while `mbed-tools` is essential for managing the project structure. Run the following in your terminal:
 
-```bash
+
 # Install Ninja build system
 pip install ninja
 
@@ -54,5 +54,5 @@ Based on the **MBED CLI 2** documentation, the `mbed-tools` command manages the 
 
 ### Build Command
 Run the following in your terminal to compile the code:
-```bash
+
 mbed-tools compile -m NUCLEO_F401RE -t GCC_ARM
